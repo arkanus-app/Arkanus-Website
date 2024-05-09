@@ -17,8 +17,8 @@
 }
 
 .btn-hover-color-7 {
-  background-image: linear-gradient(to right, var(--bs-primary), #097d95, #097d95, var(--bs-primary));
-  box-shadow: 0 4px 15px 0 rgba(54,52,161,0.75);
+  background-image: linear-gradient(to right, #5100FF, #E1036E, #e1036e, var(--bs-indigo));
+  box-shadow: 0 4px 15px 0 rgba(100,52,161,0.75);
 }
 
 .btn-hover {
